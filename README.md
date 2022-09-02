@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ozan Gokberk
+Hello 👋 My name is Ozan Gokberk
 =============================
-Computer Science Student
-------------------------
+
+CS Major and Web Developer
+--------------------------
 I started learning to code in 2019 and I've enjoyed every second of it. My first language was Python3 and then I moved onto HTML, CSS & JavaScript. I enjoy developing fronted
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ozan8@hotmail.co.uk](mailto:ozan8@hotmail.co.uk)

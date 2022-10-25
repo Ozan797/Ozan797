@@ -14,4 +14,4 @@ I started learning to code in 2019 and I've enjoyed every second of it. My first
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ozan797" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ozan-gokberk-bb6939240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"></a> <a href="https://www.linkedin.com/in/ozan-gokberk-bb6939240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

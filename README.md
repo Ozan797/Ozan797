@@ -5,7 +5,7 @@ CS Student and Software Engineer
 I started learning to code in 2019 and I've enjoyed every second of it. My first language was Python and then I moved onto HTML, CSS & JavaScript. I enjoy developing fronted and creating AI with Python
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ozan8@hotmail.co.uk](mailto:ozan8@hotmail.co.uk)
-* 🧠  I'm learning React, TypeScript, Tailwind
+* 🧠  I'm learning React, TypeScript, Tailwind and NextJS
 * 🤝  I'm open to collaborating on front end and open source projects
 
 ### Skills

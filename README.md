@@ -2,10 +2,10 @@ Hi 👋 My name is Ozan Gokberk
 =============================
 CS Student and Software Engineer
 --------------------------
-I started learning to code in 2019 and I've enjoyed every second of it. My first language was Python and then I moved onto HTML, CSS & JavaScript. I enjoy developing fronted and creating AI with Python
+In 2019, my journey into the world of coding began, and from that moment on, I've savored every second of this remarkable journey. My coding adventure commenced with Python, where I discovered the power of programming. As I delved deeper into this captivating realm, I expanded my horizons by mastering HTML, CSS, and JavaScript. My passion lies in crafting immersive frontend experiences, and I find particular delight in leveraging Python to create cutting-edge AI solutions that push the boundaries of what's possible.
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ozan8@hotmail.co.uk](mailto:ozan8@hotmail.co.uk)
-* 🧠  I'm learning React, TypeScript, Tailwind and NextJS
+* 🧠  I'm learning NestJS & Solidity
 * 🤝  I'm open to collaborating on front end and open source projects
 
 ### Skills

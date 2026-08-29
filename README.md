@@ -2,7 +2,7 @@
   
 # Ozan Gokberk
  
-**Junior Frontend Developer @ [Medialake AI](https://medialake.ai) · London, UK**
+**Junior Software Engineer @ [Medialake AI](https://medialake.ai) · London, UK**
  
 Building AI-powered media infrastructure by day, wiring up circuits, training models, and writing firmware by night.
  
@@ -26,7 +26,7 @@ I learn best by understanding the theory first, then building something real wit
  
 ## 🔭 Currently Working On
  
-- **Medialake AI**: Frontend development on an AI-powered media management platform (React, TypeScript, Node.js)
+- **Medialake AI**: Fullstack development on an AI-powered media management platform (React, TypeScript, Node.js)
 - **Arduino & Electronics**: Working through the Elegoo Uno R3 kit: RGB LEDs, sensors, serial communication, and firmware logic
 - **Robotics Roadmap**: Progressing toward a web-controlled robot car with a React frontend, Python/FastAPI backend, and on-device AI via Ollama
 - **AI Tooling**: Exploring local LLM integration, prompt engineering, and building AI-powered interfaces
